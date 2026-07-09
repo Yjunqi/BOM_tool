@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# 运行时生成
+cache/taobao_auth.json
+cache/search_cache.pkl
+cache/debug_*.png
+run.log
+
+# 输出文件
+*_filled.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
