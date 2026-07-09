@@ -155,8 +155,12 @@ bom_tool/
 │   └── search_cache.pkl       # 搜索结果缓存
 └── run.log                    # 运行日志
 ```
-
+## APP 
+  1. 下载整个 dist/ 
+  2. 首次需在 dist/ 目录下执行一次：python -m playwright install chromium
+  3. 之后双击 run.bat，把 BOM 表拖进去按回车
 ---
+
 
 ## 常见问题
 
